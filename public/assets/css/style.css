@@ -36,6 +36,10 @@ li {
   background: aqua;
 }
 
+.topContainer {
+  align-items: center
+}
+
 .form-group {
   margin-bottom: 5px;
 }
@@ -43,12 +47,15 @@ li {
 .row {
   display: flex;
   flex-wrap: wrap;
-  padding: 100px;
+  /* padding: 100px; */
   margin-right: 16px;
   margin-left: 16px;
-  margin-top: 20px;
+  /* margin-top: 20px; */
 }
 
+.burgersAte {
+  margin-top: 30px;
+}
 .rowAdd {
   display: flex;
   flex-wrap: wrap;
